@@ -45,10 +45,9 @@ pieter = Student("Pieter Bruegel the Elder", 8)
 
 # Create a new Grade with a score of 100 and add it to 
 # pieter's .grade attribute using .add_grade()
-# I don't understand the structure of this
+# I don't understand the structure of the print statement.
 pieter.add_grade(Grade(100))
 print(pieter.grades)
-print(Grade(100).score)
 
 # Why is this generating an error?
 # How do you get this to actually show True or False?
