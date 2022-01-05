@@ -53,7 +53,7 @@ print(pieter.grades)
 # How do you get this to actually show True or False?
 pieter.is_passing()
 
-# Write a Student method get_average() that returns the student's average score.
+# Write a Student method get_average() that returns the student's average score. ???
 
 # Add an instance variable to Student that is a dictionary called .attendance, with dates
-# as keys and booleans as values that indicate whether the student attended school that day.
+# as keys and booleans as values that indicate whether the student attended school that day. ???
